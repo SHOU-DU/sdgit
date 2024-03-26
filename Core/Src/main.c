@@ -41,7 +41,7 @@ volatile  uint32_t W25Qxx_TestAddr  =	0	;				// 测试地址
 uint8_t  W25Qxx_WriteBuffer[W25Qxx_NumByteToTest];		//	写数据数组
 uint8_t  W25Qxx_ReadBuffer[W25Qxx_NumByteToTest];		//	读数据数组
 
-//I got to smoke
+//I got to smoke LiTangSummer
 /***************************************************************************************************
 *	函 数 名: SPI_W25Qxx_Test
 *	入口参数: 无
